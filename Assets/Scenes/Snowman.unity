@@ -629,6 +629,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Scenes/Snowman.unity
 --- !u!1 &1859890402
 GameObject:
   m_ObjectHideFlags: 0
@@ -720,3 +721,5 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 3bf4f36... Added right arm:Assets/Scenes/SampleScene.unity
